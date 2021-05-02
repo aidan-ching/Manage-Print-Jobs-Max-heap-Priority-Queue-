@@ -2,7 +2,7 @@
 #include <iostream>
 #include <algorithm>
 using namespace std;
-//collab with Aidan Ching
+
 Heap::Heap(){
     numItems = 0;
 }
